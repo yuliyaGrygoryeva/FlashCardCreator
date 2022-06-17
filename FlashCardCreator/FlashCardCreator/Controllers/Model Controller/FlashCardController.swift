@@ -14,7 +14,7 @@ class FlashCardController {
     // SoT
     var flashCards: [FlashCard] = []
     
-    // CRUD functions
+    // CRUD functions //
     // create flashcard
     func createFlashCard(name: String, description: String) {
         
